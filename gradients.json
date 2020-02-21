@@ -1532,5 +1532,9 @@
     {
         "name": "Visual Blue",
         "colors": ["#003d4d", "#00c996"]
+    },
+    {
+        "name": "Hall of Fame",
+        "colors": ["#b4a269", "#df1f26"]
     }
 ]
